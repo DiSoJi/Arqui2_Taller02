@@ -14,5 +14,3 @@ Ejercicio Práctico 2:
 op_par.c
 Para compilar: gcc op_par.c -fopenmp -o nombre_salida
 Para correr: ./nombre_salida
-
-Test para Emanuel!
